@@ -1,2 +1,2 @@
-# DoubleStar
+# StarTea
 Say, Hit
